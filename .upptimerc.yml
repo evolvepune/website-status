@@ -13,8 +13,8 @@ status-website:
   baseUrl: /website-status
   logoUrl: https://raw.githubusercontent.com/evolvepune/website-status/master/assets/tlogo.png
   name: Evolve Pune IT
-  introTitle: "This is a status page for all Evolve Pune web projects."
-  introMessage: This page is generated through **upptime** [GitHub repository](https://github.com/upptime/upptime).
+  introTitle: "Evolve Pune web projects status page"
+  introMessage: "Welcome to the status website for Evolve Pune. Here, you can view the real-time status and performance of all our websites in one place."
   navbar:
     - title: Status
       href: /
