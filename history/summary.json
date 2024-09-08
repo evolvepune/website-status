@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 812,
-    "timeDay": 812,
-    "timeWeek": 812,
-    "timeMonth": 812,
-    "timeYear": 812,
+    "time": 861,
+    "timeDay": 861,
+    "timeWeek": 861,
+    "timeMonth": 861,
+    "timeYear": 861,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses.evolvepune.com.ico",
     "slug": "courses-evolve-pune",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
-    "time": 656,
-    "timeDay": 656,
-    "timeWeek": 656,
-    "timeMonth": 656,
-    "timeYear": 656,
-    "dailyMinutesDown": {
-      "2024-09-08": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 956,
+    "timeDay": 956,
+    "timeWeek": 956,
+    "timeMonth": 956,
+    "timeYear": 956,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Iskcon Hinjewadi",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1692,
-    "timeDay": 1692,
-    "timeWeek": 1692,
-    "timeMonth": 1692,
-    "timeYear": 1692,
+    "time": 1676,
+    "timeDay": 1676,
+    "timeWeek": 1676,
+    "timeMonth": 1676,
+    "timeYear": 1676,
     "dailyMinutesDown": {}
   }
 ]
