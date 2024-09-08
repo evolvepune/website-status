@@ -1,6 +1,10 @@
 owner: evolvepune
 repo: website-status
 
+assignees:
+  - evolvepune
+  - prateek-budhiraja
+
 sites:
   - name: Evolve Pune
     url: https://www.evolvepune.com
