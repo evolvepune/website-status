@@ -24,9 +24,9 @@
     "url": "https://courses.evolvepune.com/courses/",
     "icon": "https://icons.duckduckgo.com/ip3/courses.evolvepune.com.ico",
     "slug": "courses-evolve-pune",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 4988,
     "timeMonth": 4090,
     "timeYear": 4090,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   },
   {
     "name": "Iskcon Hinjewadi",
