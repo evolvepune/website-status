@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.evolvepune.com.ico",
     "slug": "evolve-pune",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1522,
-    "timeDay": 1645,
-    "timeWeek": 2340,
-    "timeMonth": 1522,
-    "timeYear": 1522,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1560,
+    "timeDay": 2387,
+    "timeWeek": 2459,
+    "timeMonth": 1560,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2024-09-18": 44
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4024,
-    "timeDay": 4469,
-    "timeWeek": 4507,
-    "timeMonth": 4024,
-    "timeYear": 4024,
+    "time": 4090,
+    "timeDay": 5555,
+    "timeWeek": 4988,
+    "timeMonth": 4090,
+    "timeYear": 4090,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1728,
-    "timeDay": 1508,
-    "timeWeek": 1716,
-    "timeMonth": 1728,
-    "timeYear": 1728,
+    "time": 1729,
+    "timeDay": 1754,
+    "timeWeek": 1751,
+    "timeMonth": 1729,
+    "timeYear": 1729,
     "dailyMinutesDown": {}
   }
 ]
