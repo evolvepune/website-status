@@ -4,7 +4,7 @@
     "url": "https://www.evolvepune.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.evolvepune.com.ico",
     "slug": "evolve-pune",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.70%",
@@ -16,6 +16,7 @@
     "timeMonth": 2819,
     "timeYear": 2314,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-10": 216,
       "2024-11-08": 16,
       "2024-10-19": 21,
