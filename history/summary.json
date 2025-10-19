@@ -88,8 +88,7 @@
       "2024-11-14": 17,
       "2024-11-12": 100,
       "2024-11-10": 216,
-      "2024-11-08": 16,
-      "2024-10-19": 21
+      "2024-11-08": 16
     }
   },
   {
@@ -98,7 +97,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses.evolvepune.com.ico",
     "slug": "courses-evolve-pune",
     "status": "up",
-    "uptime": "91.93%",
+    "uptime": "91.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.62%",
@@ -172,18 +171,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.35%",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.87%",
     "time": 2038,
-    "timeDay": 2197,
+    "timeDay": 2174,
     "timeWeek": 2145,
     "timeMonth": 2173,
     "timeYear": 2080,
     "dailyMinutesDown": {
-      "2025-10-18": 10,
       "2025-10-15": 20,
       "2025-10-10": 90,
       "2025-10-08": 32,
