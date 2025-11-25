@@ -80,8 +80,7 @@
       "2024-12-01": 134,
       "2024-11-28": 77,
       "2024-11-27": 111,
-      "2024-11-26": 47,
-      "2024-11-25": 31
+      "2024-11-26": 47
     }
   },
   {
@@ -160,7 +159,7 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "98.45%",
     "uptimeWeek": "98.25%",
