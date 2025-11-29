@@ -14,7 +14,7 @@
     "timeDay": 139,
     "timeWeek": 155,
     "timeMonth": 1384,
-    "timeYear": 1000,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2025-11-10": 22,
       "2025-10-09": 16,
@@ -155,7 +155,7 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "96.95%",
     "uptimeWeek": "96.97%",
