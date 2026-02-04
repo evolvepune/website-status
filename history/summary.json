@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.02%",
-    "time": 1130,
-    "timeDay": 239,
-    "timeWeek": 316,
-    "timeMonth": 292,
-    "timeYear": 632,
+    "uptimeYear": "91.06%",
+    "time": 1125,
+    "timeDay": 334,
+    "timeWeek": 318,
+    "timeMonth": 295,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2025-12-24": 41,
       "2025-12-23": 119,
@@ -59,8 +59,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 1440
+      "2025-02-05": 1440
     }
   },
   {
@@ -74,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.15%",
-    "time": 2208,
-    "timeDay": 1693,
-    "timeWeek": 1611,
+    "time": 2202,
+    "timeDay": 901,
+    "timeWeek": 1515,
     "timeMonth": 1305,
-    "timeYear": 1890,
+    "timeYear": 1888,
     "dailyMinutesDown": {
       "2025-12-24": 25,
       "2025-12-23": 30,
@@ -142,18 +141,19 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "93.25%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "93.24%",
     "uptimeWeek": "95.06%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "99.37%",
+    "uptimeMonth": "96.77%",
+    "uptimeYear": "99.38%",
     "time": 2134,
-    "timeDay": 2634,
-    "timeWeek": 2518,
-    "timeMonth": 2252,
-    "timeYear": 2259,
+    "timeDay": 2732,
+    "timeWeek": 2540,
+    "timeMonth": 2257,
+    "timeYear": 2260,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2026-02-03": 97,
       "2026-02-01": 16,
       "2026-01-31": 165,
@@ -203,8 +203,7 @@
       "2025-12-05": 51,
       "2025-12-04": 78,
       "2025-12-03": 130,
-      "2025-12-02": 40,
-      "2025-12-01": 19
+      "2025-12-02": 40
     }
   }
 ]
