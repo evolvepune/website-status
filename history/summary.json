@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.91%",
+    "uptimeYear": "93.92%",
     "time": 1086,
     "timeDay": 137,
     "timeWeek": 190,
@@ -131,15 +131,15 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "88.66%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "88.85%",
     "uptimeMonth": "94.29%",
     "uptimeYear": "99.28%",
-    "time": 2192,
+    "time": 2193,
     "timeDay": 2562,
-    "timeWeek": 2707,
+    "timeWeek": 2717,
     "timeMonth": 2472,
     "timeYear": 2291,
     "dailyMinutesDown": {
@@ -193,7 +193,7 @@
       "2025-12-14": 111,
       "2025-12-13": 16,
       "2025-12-12": 77,
-      "2025-12-11": 46
+      "2025-12-11": 30
     }
   }
 ]
