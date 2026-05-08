@@ -36,7 +36,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses.evolvepune.com.ico",
     "slug": "courses-evolve-pune",
     "status": "up",
-    "uptime": "94.55%",
+    "uptime": "94.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -109,18 +109,19 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.38%",
-    "uptimeMonth": "88.55%",
-    "uptimeYear": "98.53%",
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "92.03%",
+    "uptimeWeek": "90.24%",
+    "uptimeMonth": "88.28%",
+    "uptimeYear": "98.54%",
     "time": 2259,
-    "timeDay": 1983,
-    "timeWeek": 2066,
-    "timeMonth": 2147,
+    "timeDay": 1979,
+    "timeWeek": 2059,
+    "timeMonth": 2145,
     "timeYear": 2311,
     "dailyMinutesDown": {
+      "2026-05-08": 115,
       "2026-05-07": 145,
       "2026-05-06": 148,
       "2026-05-05": 28,
@@ -168,7 +169,7 @@
       "2026-03-20": 180,
       "2026-03-18": 173,
       "2026-03-17": 199,
-      "2026-03-16": 256
+      "2026-03-16": 83
     }
   }
 ]
