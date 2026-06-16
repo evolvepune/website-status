@@ -109,17 +109,17 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "64.11%",
-    "uptimeWeek": "70.39%",
-    "uptimeMonth": "83.70%",
-    "uptimeYear": "97.55%",
-    "time": 2367,
-    "timeDay": 4379,
-    "timeWeek": 2863,
-    "timeMonth": 2845,
-    "timeYear": 2329,
+    "status": "up",
+    "uptime": "98.58%",
+    "uptimeDay": "37.12%",
+    "uptimeWeek": "68.71%",
+    "uptimeMonth": "82.88%",
+    "uptimeYear": "97.48%",
+    "time": 2369,
+    "timeDay": 4329,
+    "timeWeek": 3007,
+    "timeMonth": 2869,
+    "timeYear": 2331,
     "dailyMinutesDown": {
       "2026-04-11": 93,
       "2026-04-12": 191,
@@ -175,7 +175,7 @@
       "2026-06-13": 314,
       "2026-06-14": 594,
       "2026-06-15": 293,
-      "2026-06-16": 224
+      "2026-06-16": 613
     }
   }
 ]
