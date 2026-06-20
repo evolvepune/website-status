@@ -110,11 +110,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
     "status": "down",
-    "uptime": "98.46%",
+    "uptime": "98.44%",
     "uptimeDay": "37.46%",
-    "uptimeWeek": "64.80%",
-    "uptimeMonth": "79.42%",
-    "uptimeYear": "97.26%",
+    "uptimeWeek": "62.88%",
+    "uptimeMonth": "78.97%",
+    "uptimeYear": "97.22%",
     "time": 2334,
     "timeDay": 3121,
     "timeWeek": 3082,
@@ -176,7 +176,7 @@
       "2026-06-17": 310,
       "2026-06-18": 212,
       "2026-06-19": 921,
-      "2026-06-20": 0
+      "2026-06-20": 194
     }
   }
 ]
