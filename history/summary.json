@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/evolvepune.com.ico",
     "slug": "evolve-pune",
     "status": "down",
-    "uptime": "92.35%",
-    "uptimeDay": "63.82%",
-    "uptimeWeek": "86.34%",
-    "uptimeMonth": "96.04%",
-    "uptimeYear": "99.12%",
-    "time": 623,
+    "uptime": "92.34%",
+    "uptimeDay": "53.31%",
+    "uptimeWeek": "85.61%",
+    "uptimeMonth": "95.70%",
+    "uptimeYear": "99.09%",
+    "time": 624,
     "timeDay": 1114,
-    "timeWeek": 1174,
-    "timeMonth": 648,
+    "timeWeek": 1173,
+    "timeMonth": 661,
     "timeYear": 742,
     "dailyMinutesDown": {
       "2025-08-27": 28,
@@ -39,7 +39,8 @@
       "2026-07-30": 139,
       "2026-08-01": 97,
       "2026-08-02": 269,
-      "2026-08-03": 521
+      "2026-08-03": 528,
+      "2026-08-04": 144
     }
   },
   {
@@ -53,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "91.13%",
-    "time": 1797,
-    "timeDay": 0,
-    "timeWeek": 1948,
-    "timeMonth": 1824,
-    "timeYear": 1530,
+    "time": 1792,
+    "timeDay": 1250,
+    "timeWeek": 1850,
+    "timeMonth": 1804,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2025-09-06": 467,
       "2025-09-05": 1440,
@@ -115,15 +116,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
     "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "64.83%",
-    "uptimeWeek": "87.00%",
-    "uptimeMonth": "92.62%",
-    "uptimeYear": "96.90%",
-    "time": 2338,
+    "uptime": "98.36%",
+    "uptimeDay": "54.31%",
+    "uptimeWeek": "86.22%",
+    "uptimeMonth": "92.35%",
+    "uptimeYear": "96.87%",
+    "time": 2339,
     "timeDay": 361,
-    "timeWeek": 434,
-    "timeMonth": 1594,
+    "timeWeek": 440,
+    "timeMonth": 1590,
     "timeYear": 2339,
     "dailyMinutesDown": {
       "2026-05-13": 190,
@@ -183,7 +184,8 @@
       "2026-07-30": 134,
       "2026-08-01": 83,
       "2026-08-02": 251,
-      "2026-08-03": 506
+      "2026-08-03": 513,
+      "2026-08-04": 144
     }
   }
 ]
