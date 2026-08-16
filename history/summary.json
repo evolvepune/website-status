@@ -58,17 +58,17 @@
     "url": "https://courses.evolvepune.com/learn/",
     "icon": "https://icons.duckduckgo.com/ip3/courses.evolvepune.com.ico",
     "slug": "courses-evolve-pune",
-    "status": "down",
+    "status": "up",
     "uptime": "95.28%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "94.16%",
-    "time": 1767,
-    "timeDay": 1489,
-    "timeWeek": 1551,
-    "timeMonth": 1644,
-    "timeYear": 1550,
+    "time": 1768,
+    "timeDay": 1626,
+    "timeWeek": 1590,
+    "timeMonth": 1651,
+    "timeYear": 1551,
     "dailyMinutesDown": {
       "2025-09-06": 467,
       "2025-09-05": 1440,
@@ -106,7 +106,7 @@
       "2026-07-10": 210,
       "2026-07-26": 133,
       "2026-07-27": 139,
-      "2026-08-16": 0
+      "2026-08-16": 28
     }
   },
   {
