@@ -4,16 +4,16 @@
     "url": "https://evolvepune.com",
     "icon": "https://icons.duckduckgo.com/ip3/evolvepune.com.ico",
     "slug": "evolve-pune",
-    "status": "up",
-    "uptime": "92.37%",
-    "uptimeDay": "85.73%",
-    "uptimeWeek": "90.48%",
-    "uptimeMonth": "91.04%",
+    "status": "down",
+    "uptime": "92.38%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "91.64%",
+    "uptimeMonth": "91.03%",
     "uptimeYear": "98.70%",
-    "time": 671,
-    "timeDay": 1121,
-    "timeWeek": 1117,
-    "timeMonth": 1068,
+    "time": 672,
+    "timeDay": 1177,
+    "timeWeek": 1119,
+    "timeMonth": 1069,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2025-08-27": 28,
@@ -54,7 +54,7 @@
       "2026-08-17": 66,
       "2026-08-18": 82,
       "2026-08-19": 226,
-      "2026-08-20": 20
+      "2026-08-20": 25
     }
   },
   {
@@ -67,12 +67,12 @@
     "uptimeDay": "98.63%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "95.10%",
-    "time": 1757,
-    "timeDay": 1580,
-    "timeWeek": 1602,
-    "timeMonth": 1675,
-    "timeYear": 1561,
+    "uptimeYear": "95.30%",
+    "time": 1758,
+    "timeDay": 1790,
+    "timeWeek": 1721,
+    "timeMonth": 1700,
+    "timeYear": 1567,
     "dailyMinutesDown": {
       "2025-09-06": 467,
       "2025-09-05": 1440,
@@ -115,16 +115,16 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "90.66%",
-    "uptimeWeek": "92.21%",
-    "uptimeMonth": "91.03%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "93.48%",
+    "uptimeMonth": "91.06%",
     "uptimeYear": "97.72%",
-    "time": 2245,
-    "timeDay": 1490,
-    "timeWeek": 1153,
-    "timeMonth": 861,
+    "time": 2243,
+    "timeDay": 1692,
+    "timeWeek": 1274,
+    "timeMonth": 877,
     "timeYear": 2255,
     "dailyMinutesDown": {
       "2026-06-14": 215,
@@ -177,7 +177,7 @@
       "2026-08-17": 57,
       "2026-08-18": 72,
       "2026-08-19": 155,
-      "2026-08-20": 15
+      "2026-08-20": 0
     }
   }
 ]
