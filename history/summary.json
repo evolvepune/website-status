@@ -6,14 +6,14 @@
     "slug": "evolve-pune",
     "status": "down",
     "uptime": "92.39%",
-    "uptimeDay": "92.38%",
-    "uptimeWeek": "92.51%",
-    "uptimeMonth": "90.36%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "86.64%",
+    "uptimeWeek": "91.69%",
+    "uptimeMonth": "90.17%",
+    "uptimeYear": "98.63%",
     "time": 693,
     "timeDay": 1123,
     "timeWeek": 1122,
-    "timeMonth": 1094,
+    "timeMonth": 1103,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2025-08-27": 28,
@@ -56,7 +56,8 @@
       "2026-08-19": 226,
       "2026-08-20": 42,
       "2026-08-21": 167,
-      "2026-08-22": 110
+      "2026-08-22": 120,
+      "2026-08-23": 73
     }
   },
   {
@@ -69,11 +70,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "95.85%",
+    "uptimeYear": "95.87%",
     "time": 1755,
     "timeDay": 1966,
     "timeWeek": 1645,
-    "timeMonth": 1692,
+    "timeMonth": 1699,
     "timeYear": 1570,
     "dailyMinutesDown": {
       "2025-09-06": 467,
@@ -90,7 +91,6 @@
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
-      "2025-08-23": 1440,
       "2025-09-23": 96,
       "2025-09-22": 37,
       "2025-10-17": 32,
@@ -117,14 +117,14 @@
     "slug": "iskcon-hinjewadi",
     "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "90.46%",
-    "uptimeYear": "97.99%",
+    "uptimeDay": "87.99%",
+    "uptimeWeek": "93.27%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "97.97%",
     "time": 2266,
     "timeDay": 1599,
     "timeWeek": 1415,
-    "timeMonth": 973,
+    "timeMonth": 978,
     "timeYear": 2244,
     "dailyMinutesDown": {
       "2026-06-18": 212,
@@ -176,7 +176,8 @@
       "2026-08-19": 155,
       "2026-08-21": 154,
       "2026-08-20": 17,
-      "2026-08-22": 90
+      "2026-08-22": 100,
+      "2026-08-23": 73
     }
   }
 ]
