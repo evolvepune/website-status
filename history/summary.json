@@ -4,17 +4,17 @@
     "url": "https://evolvepune.com",
     "icon": "https://icons.duckduckgo.com/ip3/evolvepune.com.ico",
     "slug": "evolve-pune",
-    "status": "down",
+    "status": "up",
     "uptime": "92.40%",
-    "uptimeDay": "89.86%",
-    "uptimeWeek": "90.88%",
-    "uptimeMonth": "89.84%",
-    "uptimeYear": "98.60%",
-    "time": 709,
-    "timeDay": 1062,
-    "timeWeek": 1113,
-    "timeMonth": 1110,
-    "timeYear": 823,
+    "uptimeDay": "88.53%",
+    "uptimeWeek": "90.33%",
+    "uptimeMonth": "89.71%",
+    "uptimeYear": "98.59%",
+    "time": 711,
+    "timeDay": 1067,
+    "timeWeek": 1115,
+    "timeMonth": 1111,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2025-08-27": 28,
       "2025-08-28": 26,
@@ -58,7 +58,7 @@
       "2026-08-21": 167,
       "2026-08-22": 120,
       "2026-08-23": 176,
-      "2026-08-24": 41
+      "2026-08-24": 97
     }
   },
   {
@@ -71,7 +71,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "96.14%",
+    "uptimeYear": "96.15%",
     "time": 1753,
     "timeDay": 2222,
     "timeWeek": 1803,
@@ -115,17 +115,17 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "91.95%",
-    "uptimeWeek": "92.66%",
-    "uptimeMonth": "90.02%",
-    "uptimeYear": "98.10%",
+    "status": "up",
+    "uptime": "99.02%",
+    "uptimeDay": "90.63%",
+    "uptimeWeek": "92.10%",
+    "uptimeMonth": "89.89%",
+    "uptimeYear": "98.08%",
     "time": 2262,
-    "timeDay": 1121,
-    "timeWeek": 1368,
-    "timeMonth": 980,
-    "timeYear": 2236,
+    "timeDay": 1117,
+    "timeWeek": 1375,
+    "timeMonth": 986,
+    "timeYear": 2235,
     "dailyMinutesDown": {
       "2026-06-19": 425,
       "2026-06-20": 567,
@@ -176,7 +176,7 @@
       "2026-08-20": 17,
       "2026-08-22": 100,
       "2026-08-23": 151,
-      "2026-08-24": 36
+      "2026-08-24": 92
     }
   }
 ]
