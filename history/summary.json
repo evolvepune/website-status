@@ -4,15 +4,15 @@
     "url": "https://evolvepune.com",
     "icon": "https://icons.duckduckgo.com/ip3/evolvepune.com.ico",
     "slug": "evolve-pune",
-    "status": "up",
-    "uptime": "92.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.23%",
-    "uptimeMonth": "90.64%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "90.69%",
     "uptimeYear": "98.57%",
-    "time": 727,
+    "time": 728,
     "timeDay": 1190,
-    "timeWeek": 1116,
+    "timeWeek": 1121,
     "timeMonth": 1134,
     "timeYear": 833,
     "dailyMinutesDown": {
@@ -58,7 +58,8 @@
       "2026-08-23": 176,
       "2026-08-24": 97,
       "2026-08-25": 60,
-      "2026-08-26": 85
+      "2026-08-26": 85,
+      "2026-08-28": 5
     }
   },
   {
@@ -71,7 +72,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "97.34%",
+    "uptimeYear": "97.37%",
     "time": 1752,
     "timeDay": 2752,
     "timeWeek": 1966,
@@ -111,19 +112,19 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "90.82%",
-    "uptimeYear": "98.31%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "90.87%",
+    "uptimeYear": "98.34%",
     "time": 2254,
     "timeDay": 1011,
-    "timeWeek": 1289,
+    "timeWeek": 1304,
     "timeMonth": 1026,
     "timeYear": 2227,
     "dailyMinutesDown": {
-      "2026-06-21": 409,
+      "2026-06-21": 246,
       "2026-06-22": 74,
       "2026-06-23": 359,
       "2026-06-24": 350,
@@ -172,7 +173,8 @@
       "2026-08-23": 151,
       "2026-08-24": 92,
       "2026-08-25": 50,
-      "2026-08-26": 75
+      "2026-08-26": 75,
+      "2026-08-28": 0
     }
   }
 ]
