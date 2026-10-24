@@ -4,19 +4,19 @@
     "url": "https://evolvepune.com",
     "icon": "https://icons.duckduckgo.com/ip3/evolvepune.com.ico",
     "slug": "evolve-pune",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.05%",
-    "time": 831,
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.11%",
+    "time": 832,
     "timeDay": 1126,
     "timeWeek": 1143,
     "timeMonth": 1155,
-    "timeYear": 800,
+    "timeYear": 801,
     "dailyMinutesDown": {
-      "2025-12-01": 476,
+      "2025-12-01": 154,
       "2025-12-02": 536,
       "2025-12-13": 127,
       "2025-12-23": 119,
@@ -69,7 +69,8 @@
       "2026-09-27": 320,
       "2026-10-19": 34,
       "2026-10-18": 19,
-      "2026-10-21": 209
+      "2026-10-21": 209,
+      "2026-10-24": 5
     }
   },
   {
@@ -78,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses.evolvepune.com.ico",
     "slug": "courses-evolve-pune",
     "status": "up",
-    "uptime": "95.68%",
+    "uptime": "95.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -87,7 +88,7 @@
     "timeDay": 1272,
     "timeWeek": 1581,
     "timeMonth": 1860,
-    "timeYear": 1626,
+    "timeYear": 1627,
     "dailyMinutesDown": {
       "2025-11-03": 28,
       "2025-11-08": 20,
@@ -110,19 +111,18 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.50%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "97.49%",
     "uptimeMonth": "97.82%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.91%",
     "time": 2123,
     "timeDay": 878,
     "timeWeek": 980,
     "timeMonth": 1049,
     "timeYear": 2126,
     "dailyMinutesDown": {
-      "2026-07-11": 58,
       "2026-07-12": 56,
       "2026-07-13": 95,
       "2026-07-15": 123,
@@ -180,7 +180,8 @@
       "2026-10-13": 388,
       "2026-10-19": 34,
       "2026-10-18": 14,
-      "2026-10-21": 204
+      "2026-10-21": 204,
+      "2026-10-24": 0
     }
   }
 ]
