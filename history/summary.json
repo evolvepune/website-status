@@ -4,17 +4,17 @@
     "url": "https://evolvepune.com",
     "icon": "https://icons.duckduckgo.com/ip3/evolvepune.com.ico",
     "slug": "evolve-pune",
-    "status": "down",
+    "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "98.61%",
     "uptimeYear": "98.11%",
-    "time": 832,
-    "timeDay": 1126,
-    "timeWeek": 1143,
-    "timeMonth": 1155,
-    "timeYear": 801,
+    "time": 834,
+    "timeDay": 1008,
+    "timeWeek": 1152,
+    "timeMonth": 1150,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2025-12-01": 154,
       "2025-12-02": 536,
@@ -70,7 +70,7 @@
       "2026-10-19": 34,
       "2026-10-18": 19,
       "2026-10-21": 209,
-      "2026-10-24": 5
+      "2026-10-24": 28
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1590,
-    "timeDay": 1272,
-    "timeWeek": 1581,
-    "timeMonth": 1860,
-    "timeYear": 1627,
+    "time": 1589,
+    "timeDay": 1303,
+    "timeWeek": 1455,
+    "timeMonth": 1848,
+    "timeYear": 1626,
     "dailyMinutesDown": {
       "2025-11-03": 28,
       "2025-11-08": 20,
@@ -111,16 +111,16 @@
     "url": "https://iskconhinjewadi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iskconhinjewadi.com.ico",
     "slug": "iskcon-hinjewadi",
-    "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "97.91%",
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "97.90%",
     "time": 2123,
-    "timeDay": 878,
-    "timeWeek": 980,
-    "timeMonth": 1049,
+    "timeDay": 1798,
+    "timeWeek": 1093,
+    "timeMonth": 1040,
     "timeYear": 2126,
     "dailyMinutesDown": {
       "2026-07-12": 56,
@@ -181,7 +181,7 @@
       "2026-10-19": 34,
       "2026-10-18": 14,
       "2026-10-21": 204,
-      "2026-10-24": 0
+      "2026-10-24": 23
     }
   }
 ]
